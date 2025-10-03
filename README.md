@@ -27,7 +27,8 @@ Stay tuned for more updates and resources here! 🚀
 ## 💡 Why Monad?
 Monad is built to solve the scalability challenges of blockchains.  
 It ensures:  
-- ⚡ Faster transactions  
+- ⚡ Faster transactions
+- #monad
 - 🔐 Strong security  
 - 🌍 A developer-friendly ecosystem  
 
